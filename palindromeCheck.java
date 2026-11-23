@@ -1,7 +1,7 @@
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
-    String str="mam";
+    String str="maam";
     String check="";
     for(int i=str.length()-1;i>=0;i--){
        check+=str.charAt(i);
